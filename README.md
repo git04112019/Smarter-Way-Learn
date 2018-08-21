@@ -1,11 +1,13 @@
 ![zzasw](https://user-images.githubusercontent.com/24855472/44423664-ae9a8c00-a554-11e8-80c9-ac05b9a7f018.png)
 
 # A Smarter Way to Learn: HTML & CSS, JavaScript, Python
-Book: (https://www.amazon.com/Smarter-Way-Learn-HTML-CSS/dp/150867387X/)
-Book: (https://www.amazon.com/Smarter-JavaScript-tech-assisted-approach-requires/dp/1497408180/)
-Book: (https://www.amazon.com/gp/product/1974431479/)
+Book: (https://www.amazon.com/Smarter-Way-Learn-HTML-CSS/dp/150867387X/)<br>
+Book: (https://www.amazon.com/Smarter-JavaScript-tech-assisted-approach-requires/dp/1497408180/)<br>
+Book: (https://www.amazon.com/gp/product/1974431479/)<br>
 
 Description: *A Smarter Way to Learn provides the necessary information for learning fundamentals of each subject and each book has over 1000 complementary exercises on the material.*
+<br><br>
+Purpose: This is simply a way to keep track of my progress thru these books
 
 ## HTML & CSS Chapters & Exercises
 1. HTML & CSS &check;
@@ -208,63 +210,63 @@ Description: *A Smarter Way to Learn provides the necessary information for lear
 16. Lists: Adding and changing elements
 17. Lists: Taking slices out of them
 18. Lists: Deleting and removing elements
-Lists: popping elements
-Tuples
-for loops
-for loops nested
-Getting information from the user and converting strings and numbers
-Changing case
-Dictionaries: What they are
-Dictionaries: How to code one
-Dictionaries: How to pick information out of them
-Dictionaries: The versatility of keys and values
-Dictionaries: Adding items
-Dictionaries: Removing and changing items
-Dictionaries: Looping through values
-Dictionaries: Looping through keys
-Dictionaries: Looping through key-value pairs
-Creating a list of dictionaries
-How to pick information out of a list of dictionaries
-How to append a new dictionary to a list of dictionaries
-Creating a dictionary that contains lists
-How to get information out of a list within a dictionary
-Creating a dictionary that contains a dictionary
-How to get information out of a dictionary within another dictionary
-Functions
-Functions: Passing them information
-Functions: Passing information to them a different way
-Functions: Assigning a default value to a parameter
-Functions: Mixing positional and keyword arguments
-Functions: Dealing with an unknown number of arguments
-Functions: Passing information back from them
-Using functions as variables (which is what they really are)
-Functions: Local vs. global variables
-Functions within functions
-While loops
-While loops: Setting a flag
-Classes
-Classes: Starting to build the structure
-Classes: A bit of housekeeping
-Classes: Creating an instance
-Classes: A little more complexity
-Classes: Getting info out of instances
-Classes: Building functions into them
-Classes: Coding a method
-Classes: Changing an attribute's value
-Data files
-Data files: Storing data
-Data files: Retrieving data
-Data files: Appending data
-Modules
-CSV files
-CSV files: Reading them
-CSV files: Picking information out of them
-CSV files: Loading information into them. Part 1
-CSV files: Loading information into them. Part 2
-CSV files: Loading information into them. Part 3
-CSV files: Appending rows to them
-How to save a Python list or dictionary in a file: JSON
-How to retrieve a Python list or dictionary from a JSON file
-Planning for things to go wrong
-A more practical example of exception handling
+19. Lists: popping elements
+20. Tuples
+21. for loops
+22. for loops nested
+23. Getting information from the user and converting strings and numbers
+24. Changing case
+25. Dictionaries: What they are
+26. Dictionaries: How to code one
+27. Dictionaries: How to pick information out of them
+28. Dictionaries: The versatility of keys and values
+29. Dictionaries: Adding items
+30. Dictionaries: Removing and changing items
+31. Dictionaries: Looping through values
+32. Dictionaries: Looping through keys
+33. Dictionaries: Looping through key-value pairs
+34. Creating a list of dictionaries
+35. How to pick information out of a list of dictionaries
+36. How to append a new dictionary to a list of dictionaries
+37. Creating a dictionary that contains lists
+38. How to get information out of a list within a dictionary
+39. Creating a dictionary that contains a dictionary
+40. How to get information out of a dictionary within another dictionary
+41. Functions
+42. Functions: Passing them information
+43. Functions: Passing information to them a different way
+44. Functions: Assigning a default value to a parameter
+45. Functions: Mixing positional and keyword arguments
+46. Functions: Dealing with an unknown number of arguments
+47. Functions: Passing information back from them
+48. Using functions as variables (which is what they really are)
+49. Functions: Local vs. global variables
+50. Functions within functions
+51. While loops
+52. While loops: Setting a flag
+53. Classes
+54. Classes: Starting to build the structure
+55. Classes: A bit of housekeeping
+56. Classes: Creating an instance
+57. Classes: A little more complexity
+58. Classes: Getting info out of instances
+59. Classes: Building functions into them
+60. Classes: Coding a method
+61. Classes: Changing an attribute's value
+62. Data files
+63. Data files: Storing data
+64. Data files: Retrieving data
+65. Data files: Appending data
+66. Modules
+67. CSV files
+68. CSV files: Reading them
+69. CSV files: Picking information out of them
+70. CSV files: Loading information into them. Part 1
+71. CSV files: Loading information into them. Part 2
+72. CSV files: Loading information into them. Part 3
+73. CSV files: Appending rows to them
+74. How to save a Python list or dictionary in a file: JSON
+75. How to retrieve a Python list or dictionary from a JSON file
+76. Planning for things to go wrong
+77. A more practical example of exception handling
 
