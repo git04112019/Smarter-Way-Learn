@@ -26,10 +26,10 @@ Purpose: This is simply a way to keep track of my progress thru these books
 14. ALIGNING TEXT &check;
 15. FIRST-LINE INDENT AND BLOCKQUOTE &check;
 16. MARGINS &check;
-17. BORDERS
-18. PADDING
-19. INHERITANCE
-20. GROUPING
+17. BORDERS &check;
+18. PADDING &check;
+19. INHERITANCE &check;
+20. GROUPING &check;
 21. ID
 22. DIV
 23. IMAGES
