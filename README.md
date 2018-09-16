@@ -30,10 +30,10 @@ Purpose: This is simply a way to keep track of my progress thru these books
 18. PADDING &check;
 19. INHERITANCE &check;
 20. GROUPING &check;
-21. ID
-22. DIV
-23. IMAGES
-24. BLOCK ELEMENTS VS. INLINE ELEMENTS 
+21. ID &check;
+22. DIV &check;
+23. IMAGES &check;
+24. BLOCK ELEMENTS VS. INLINE ELEMENTS &check; 
 25. ADDING MORE INFO TO THE IMAGE TAG 
 26. POSITIONING AN IMAGE
 27. CENTERING AN IMAGE
